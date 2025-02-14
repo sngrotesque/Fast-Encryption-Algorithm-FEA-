@@ -7,3 +7,5 @@ The block size of this encryption algorithm is 128 bits, and the key length is 2
 This algorithm has good Avalanche effects.
 
 The number of rounds for encryption (or decryption) is 4.
+
+It can provide good performance even without hardware acceleration (encryption algorithms on the market, such as AES and ChaCha20, both have hardware acceleration).
