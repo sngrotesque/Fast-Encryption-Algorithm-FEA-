@@ -1,3 +1,4 @@
+// g++ test.cc -Wall -O3 -o test.exe
 #include "FEA.hh"
 
 #include "FEA_CBC.cc"
